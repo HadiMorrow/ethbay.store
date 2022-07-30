@@ -25,10 +25,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "node start",
-    "build": "node build",
-    "test": "node test",
-    "eject": "node eject"
+    "start": "node run start",
+    "build": "node run build",
+    "test": "node run test",
+    "eject": "node run eject"
   },
   "eslintConfig": {
     "extends": [
