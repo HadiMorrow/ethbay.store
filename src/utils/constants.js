@@ -9,3 +9,5 @@ export const adminAddress = '0xB96aE96bC1Bc9EA5E02308D3a89621faE75D76a1'
 export const adminEmail = 'hadi.a.morrow@gmail.com'
 
 export const categoryData = categoriesData.categories
+
+export const BASE_API_URL = '';
