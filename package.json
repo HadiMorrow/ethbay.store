@@ -1,10 +1,10 @@
 {
-  "name": "myapp",
+  "name": "ethbay.store",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "engines": {
-    "node": "16.x",
-    "npm": "8.x"
+    "node": "16.16.0",
+    "npm": "8.11.0"
   },
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
