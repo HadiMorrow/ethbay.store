@@ -25,10 +25,8 @@
     "semantic-ui-react": "^0.70.0"
   },
   "scripts": {
-    "start": "npm start",
-    "test": "npm test",
-    "eject": "npm run eject",
-    "postinstall": "npm run build"
+    "start": "react-scripts start",
+    "build": "webpack"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +49,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
-    "tailwindcss": "^3.1.4"
+    "tailwindcss": "^3.1.4",
+    "webpack-cli": "^4.10.0"
   }
 }
