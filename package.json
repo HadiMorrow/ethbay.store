@@ -30,10 +30,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "cd server && yarn build && yarn install",
+    "build": "yarn build && yarn install",
     "test": "yarn test",
     "eject": "yarn eject",
-    "start": "cd server && yarn start"
+    "start": "yarn start"
   },
   "eslintConfig": {
     "extends": [
